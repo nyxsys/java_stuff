@@ -24,7 +24,7 @@ This is intended for  developers venturing into Java Bot [source code]( https://
 
 **Web Framework**
 
-​      *Current proposal :  [Spring Boot](http://spring.io/projects/spring-boot) Works with Tomcat. Jetty or Undertow
+​      *Current proposal :  [Spring Boot](http://spring.io/projects/spring-boot) (Works with Tomcat. Jetty or Undertow)
 
 **Test**
 
@@ -46,15 +46,15 @@ This is intended for  developers venturing into Java Bot [source code]( https://
 
 **Autorest**
 
-​   *[Autorest](https://github.com/Azure/autorest-clientruntime-for-java) for our client.
+​   *[Autorest](https://github.com/Azure/autorest-clientruntime-for-java) Java flavored.
 
 **Samples/Template Generation**
 
 ​   *[Maven Archetype](https://maven.apache.org/guides/introduction/introduction-to-archetypes.html)
 
-​   *Mark Barbera has existing Echobot as a sample as an archetype.
+​   *Mark Barbera built a archetype using the existing Echobot as the template!.
 
-​   *Spring-boot has their own  archetype/template system.  They've granted all of Microsoft Azure two slots for templates.  If we want a great deployment with Spring-Boot we'll need to  work with the Azure team or work with Spring to get more slots.
+​   *Spring-boot has their own  archetype/template system.  They've granted all of Microsoft Azure two slots for templates.  If we want a great deployment experience  with Spring-Boot we'll need to  work with the Azure team or work with Spring to get more slots.
 
 ​   *See Ruth for more details
    
