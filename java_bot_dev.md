@@ -11,12 +11,12 @@ This is intended for  developers venturing into Java Bot [source code]( https://
 
 **Build**
 
-   *Build: [Maven](https://maven.apache.org/what-is-maven.html)
+​   *Build: [Maven](https://maven.apache.org/what-is-maven.html)
 
    *Public Repository: [Maven Central](https://search.maven.org/)
 ​       Publish is manual
 
-   *CICD: [Travis](https://travis-ci.org/Microsoft/botbuilder-java)
+​     *CICD: [Travis](https://travis-ci.org/Microsoft/botbuilder-java)
 
 ​       *Triggers on each commit on all branches.
 
@@ -24,39 +24,39 @@ This is intended for  developers venturing into Java Bot [source code]( https://
 
 **Web Framework**
 
-   *Current proposal :  [Spring Boot](http://spring.io/projects/spring-boot) Works with Tomcat. Jetty or Undertow*
+​   *Current proposal :  [Spring Boot](http://spring.io/projects/spring-boot) Works with Tomcat. Jetty or Undertow*
 
 **Test**
 
-   *[JUnit](https://junit.org/junit5/)
+​   *[JUnit](https://junit.org/junit5/)
 
 **Logging**
 
-   *[Log4J2](https://logging.apache.org/log4j/2.x/)
+​   *[Log4J2](https://logging.apache.org/log4j/2.x/)
 
 **Json Serialization**
 
-   *[Jackson](https://github.com/FasterXML/jackson)*
+​   *[Jackson](https://github.com/FasterXML/jackson)*
 
 **Http Client**
 
-   *[OkHttp](http://square.github.io/okhttp/)*
+​   *[OkHttp](http://square.github.io/okhttp/)*
 
-   *[Retrofit](https://square.github.io/retrofit/)*
+​   *[Retrofit](https://square.github.io/retrofit/)*
 
 **Autorest**
 
-   *[Autorest](https://github.com/Azure/autorest-clientruntime-for-java) for our client.*
+​   *[Autorest](https://github.com/Azure/autorest-clientruntime-for-java) for our client.*
 
 **Samples/Template Generation**
 
-   *[Maven Archetype](https://maven.apache.org/guides/introduction/introduction-to-archetypes.html)*
+​   *[Maven Archetype](https://maven.apache.org/guides/introduction/introduction-to-archetypes.html)*
 
-   *Mark Barbera has existing Echobot as a sample as an archetype.*
+​   *Mark Barbera has existing Echobot as a sample as an archetype.*
 
-   *Spring-boot has their own  archetype/template system.  They've granted all of Microsoft Azure two slots for templates.  If we want a great deployment with Spring-Boot we'll need to  work with the Azure team or work with Spring to get more slots.*
+​   *Spring-boot has their own  archetype/template system.  They've granted all of Microsoft Azure two slots for templates.  If we want a great deployment with Spring-Boot we'll need to  work with the Azure team or work with Spring to get more slots.*
 
-   *See Ruth for more details*
+​   *See Ruth for more details*
    
 
 ## Random Notes
