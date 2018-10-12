@@ -7,7 +7,9 @@ This is intended for  developers venturing into Java Bot [source code]( https://
 
 ​   *Bot SDK V1.8 [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
-​   *Autorest for Java V1.7 (Note: Most all Azure client libraries are using version 7)
+​   *Autorest for Java V1.7 
+
+​   *(Note: Most all Azure client libraries are using version 7)
 
 **Build**
 
