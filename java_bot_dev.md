@@ -5,15 +5,15 @@ This is intended for  developers venturing into Java Bot [source code]( https://
 ## Dependencies
 **Java**
 
-   *Bot SDK V1.8* [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+​   *Bot SDK V1.8 [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
-   *Autorest for Java V1.7* (Note: Most all Azure client libraries are using version 7)
+​   *Autorest for Java V1.7 (Note: Most all Azure client libraries are using version 7)
 
 **Build**
 
 ​   *Build: [Maven](https://maven.apache.org/what-is-maven.html)
 
-   *Public Repository: [Maven Central](https://search.maven.org/)
+​   *Public Repository: [Maven Central](https://search.maven.org/)
 ​       Publish is manual
 
 ​     *CICD: [Travis](https://travis-ci.org/Microsoft/botbuilder-java)
