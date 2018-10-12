@@ -11,16 +11,16 @@ This is intended for  developers venturing into Java Bot [source code]( https://
 
 **Build**
 
-   *Build: [Maven](https://maven.apache.org/what-is-maven.html)*
+   *Build: [Maven](https://maven.apache.org/what-is-maven.html)
 
-   *Public Repository: [Maven Central](https://search.maven.org/)*
+   *Public Repository: [Maven Central](https://search.maven.org/)
 ​       Publish is manual
 
-   *CICD: [Travis](https://travis-ci.org/Microsoft/botbuilder-java)*
+   *CICD: [Travis](https://travis-ci.org/Microsoft/botbuilder-java)
 
-​       Triggers on each commit on all branches
+​       *Triggers on each commit on all branches.
 
-​       Does not publish to Maven Central
+​       *Does not publish to Maven Central.
 
 **Web Framework**
 
