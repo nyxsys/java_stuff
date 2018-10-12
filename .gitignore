@@ -1,0 +1,93 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @daveta Sign out
+51
+40 21 Microsoft/botbuilder-java
+ Code  Issues 4  Pull requests 3  Projects 1  Wiki  Insights  Settings
+botbuilder-java/.gitignore
+6dcead1  on Jan 29
+@enzocanoo enzocanoo update gitignore
+@msftgits @enzocanoo
+We found potential security vulnerabilities in your dependencies.
+Some of the dependencies defined in …/swagger/package-lock.json and …/generator-botbuilder-java/package-lock.json have known security vulnerabilities and should be updated.
+
+Only users who have been granted access to vulnerability alerts for this repository can see this message.
+Learn more about vulnerability alerts
+
+     
+56 lines (45 sloc)  546 Bytes
+*.class
+
+#External libs
+extlib/
+
+# Auth files
+*.auth
+*.azureauth
+
+# Local checkstyle
+*.checkstyle
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Azure Tooling #
+node_modules
+packages
+
+# Eclipse #
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# Other Tooling #
+.classpath
+.project
+target
+.idea
+*.iml
+
+# Mac OS #
+.DS_Store
+.DS_Store?
+
+# Windows #
+Thumbs.db
+
+# reduced pom files should not be included
+dependency-reduced-pom.xml
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
