@@ -38,11 +38,11 @@ This is intended for  developers venturing into Java Bot [source code]( https://
 **Samples/Template Generation**
    *[Maven Archetype](https://maven.apache.org/guides/introduction/introduction-to-archetypes.html)*
    
-   *Mark Barbera has existing Echobot as a sample as an archetype.*
+	*Mark Barbera has existing Echobot as a sample as an archetype.*
    
-   *Spring-boot has their own  archetype/template system.  They've granted all of Microsoft Azure two slots for templates.  If we want a great deployment with Spring-Boot we'll need to  work with the Azure team or work with Spring to get more slots.*
+	*Spring-boot has their own  archetype/template system.  They've granted all of Microsoft Azure two slots for templates.  If we want a great deployment with Spring-Boot we'll need to  work with the Azure team or work with Spring to get more slots.*
    
-   *See Ruth for more details*
+	*See Ruth for more details*
    
 
 ## Random Notes
