@@ -68,7 +68,7 @@ This is intended for  developers venturing into Java Bot [source code]( https://
 
    **Azure Integration:** The Azure Web App appears to be using Tomcat as the default server inside a container.
 
-   **Azure/Spring-boot:** Non-polished sample can be had  [here](https://github.com/daveta/java_spring_bot)
+   **Azure/Spring-boot:** Non-polished sample can be had  [here](https://github.com/daveta/java_spring_bot).  Implements echobot and deploys to Azure using Web App.
 
    **Autorest:** In practice, people add properties to Activity are outside the definition of our  [wire format](https://github.com/Microsoft/BotBuilder/blob/master/specs/botframework-activity/botframework-activity.md).  This enables flexibility, but introduces a challenge for our serialization.  Autorest for C# generates a separate dictionary that collects these  properties.  There is a request for Autorest for Java to add an equivalent feature, but it has not been added.  To that end, we hand modify the generated code.
 As a result, turning crank on Autorest requires hand edits.  I believe there's another case that required hand edits which i'll document when I review.
