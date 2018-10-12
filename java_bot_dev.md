@@ -83,7 +83,7 @@ As a result, turning crank on Autorest requires hand edits.  I believe there's a
 
    **async** Autorest not moving to Java8 in near future, blocking any CompletableFuture adoption.
 
-   **conversion** Code in branch "v4.1" used a tool to convert from C# to Java the entire BotBuilder project 10/9/2018.  This is best starting point as comments and formating carried over.
+   **conversion** There is code in botbuilder-java branch "v4.1".  I used a tool to convert the entire BotBuilder project from C# to Java on10/9/2018.  This is best starting point as comments and formating carried over.
 
    **conversion** Common cases: string.IsNullOrEmpty => StringUtils.isBlank :)
 
