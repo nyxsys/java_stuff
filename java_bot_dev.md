@@ -4,38 +4,51 @@ This is intended for  developers venturing into Java Bot [source code]( https://
 
 ## Dependencies
 **Java**
+
    *Bot SDK V1.8* [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+
    *Autorest for Java V1.7* (Note: Most all Azure client libraries are using version 7)
 
 **Build**
+
    *Build: [Maven](https://maven.apache.org/what-is-maven.html)*
+
    *Public Repository: [Maven Central](https://search.maven.org/)*
 ​       Publish is manual
+
    *CICD: [Travis](https://travis-ci.org/Microsoft/botbuilder-java)*
+
 ​       Triggers on each commit on all branches
+
 ​       Does not publish to Maven Central
 
 **Web Framework**
-   *Current proposal :  [Spring Boot](http://spring.io/projects/spring-boot)*
-   Works with Tomcat. Jetty or Undertow
+   *Current proposal :  [Spring Boot](http://spring.io/projects/spring-boot) Works with Tomcat. Jetty or Undertow*
 
 **Test**
+
    *[JUnit](https://junit.org/junit5/)
 
 **Logging**
+
    *[Log4J2](https://logging.apache.org/log4j/2.x/)
 
 **Json Serialization**
+
    *[Jackson](https://github.com/FasterXML/jackson)*
 
 **Http Client**
+
    *[OkHttp](http://square.github.io/okhttp/)*
+
    *[Retrofit](https://square.github.io/retrofit/)*
 
 **Autorest**
+
    *[Autorest](https://github.com/Azure/autorest-clientruntime-for-java) for our client.*
 
 **Samples/Template Generation**
+
    *[Maven Archetype](https://maven.apache.org/guides/introduction/introduction-to-archetypes.html)*
 
    *Mark Barbera has existing Echobot as a sample as an archetype.*
