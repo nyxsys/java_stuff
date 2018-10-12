@@ -79,7 +79,7 @@ As a result, turning crank on Autorest requires hand edits.  I believe there's a
 
    **async:** After failed attempts, current approach is convert code as  synchronous and convert to CompletableFuture.
 
-   **async:** Trivia: When toying with CompletableFutures, it uses underlying thread pool.  The pool defaults to *1*.  Just something to keep in mind. Also need to understand entire underlying stack we adopt and if that impacts our decision on thread pools.
+   **async:** Trivia: When toying with CompletableFutures, it uses underlying thread pool.  The pool defaults to *1* thread.  Just something to keep in mind. Also need to understand entire underlying stack we adopt and if that impacts our decision on thread pools.
 
    **async:** Autorest [has adopted the react framework](https://github.com/ReactiveX/RxJava) for it's model.
 
